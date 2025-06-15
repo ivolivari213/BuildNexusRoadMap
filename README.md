@@ -11,6 +11,6 @@ This repository contains the public roadmap and progress tracking for the projec
 - 🧠 Phase 4 – Performance Simulation (AI)
 - 💻 Phase 5 – Desktop Monitoring Companion
 
-📄 See [`BuildNexus_Tasks_By_Phase.md`](./BuildNexus_Tasks_By_Phase.md) for full task breakdown.
+
 
 > Note: This repository contains only the roadmap. The source code is private.
